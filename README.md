@@ -121,6 +121,11 @@ curated list of top AI Tools.
 | Elicit | an AI research assistant | [🔗](https://elicit.org/)|
 | Explainpaper | an AI research assistant | [🔗](https://www.explainpaper.com/)|
 
+## Trip Planner
+|Tools | Used for | Link |
+|------|----------|------|
+|Trip planner| Plan your trip| [🔗](https://www.roamaround.io/)|
+
 ## Geospatial
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
